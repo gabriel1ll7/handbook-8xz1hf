@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gabriel1ll7.github.io/handbook-8xz1hf/sitemap.xml
